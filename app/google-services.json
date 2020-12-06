@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918299976790",
+    "firebase_url": "https://cc17-channels-d34e4-default-rtdb.firebaseio.com",
+    "project_id": "cc17-channels-d34e4",
+    "storage_bucket": "cc17-channels-d34e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918299976790:android:263b1da22db74bb3bbc7f7",
+        "android_client_info": {
+          "package_name": "com.example.youtubechannels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918299976790-ca3o1tl1432i2rf4ims2g4aud78o27ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdI9L73YMeIbScdfSXXTCfdRywlB_1Etc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918299976790-ca3o1tl1432i2rf4ims2g4aud78o27ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
